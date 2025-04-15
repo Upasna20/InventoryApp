@@ -30,4 +30,4 @@ A minimal, responsive Inventory Management System built for general stores. This
 
 ```bash
 git clone https://github.com/yourusername/inventory-management-mvp.git
-cd inventory-management-mvp
+cd InventoryApp
